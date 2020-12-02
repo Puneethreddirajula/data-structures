@@ -17,13 +17,3 @@ Description :-
 
 
 Input to the BST is given on the command line
-
-
-
-
-
-
-
-
-
-
