@@ -1,13 +1,13 @@
 Implementation of BST
 
-Operations on BST
-Insert
-Preorder
-Inorder
-Node count
-Delete node with no child
-Delete node with one child
-Delete nine with two children
+Operations on BST-
+Insert,
+Preorder,
+Inorder,
+Node count,
+Delete node with no child,
+Delete node with one child,
+Delete node with two children.
 
 compile and run :-
 make clean
