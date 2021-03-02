@@ -2,8 +2,8 @@ Implementation of BST
 
 Operations on BST-
 Insert,
-Preorder,
-Inorder,
+Preorder Traversal,
+Inorder Traversal,
 Node count,
 Delete node with no child,
 Delete node with one child,
